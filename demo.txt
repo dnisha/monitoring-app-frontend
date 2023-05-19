@@ -1,0 +1,28 @@
+Processor: Apple M1 chip with 8-core CPU and or 8-core GPU
+Memory: 8GB of unified memory
+Storage: 256GB
+Display: 13.3-inch (diagonal) Retina display with True Tone technology, 2560-by-1600 resolution at 227 pixels per inch
+Ports:
+
+Two Thunderbolt/USB 4 ports with support for:
+Charging
+DisplayPort
+Thunderbolt 3 (up to 40Gb/s)
+USB 3.1 Gen 2 (up to 10Gb/s)
+3.5mm headphone jack
+Wireless:
+
+Wi-Fi 6 (802.11ax)
+Bluetooth 5.0 wireless technology
+Camera: 720p FaceTime HD camera
+
+Dimensions: 11.97 x 8.36 x 0.63 inches (30.41 x 21.24 x 1.61 cm)
+
+Weight: 2.8 pounds (1.29 kg)
+
+
+
+
+
+
+
